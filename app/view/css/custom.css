@@ -1,0 +1,51 @@
+/* NAVBAR */
+.nav > .nav-item > .nav-link {
+    color: #bbbbbb;
+}
+.nav > .nav-item > .nav-link:hover{
+    color: #ebebeb;
+}
+.logo {
+    width: 100px;
+    height: 100px;
+}
+.login-btn{
+    margin-bottom: -100px;
+    margin-right: 20px;
+}
+
+/* BODY */
+body{
+    background-color: #e9ecef;
+}
+.jumbotron{
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+.card{
+    padding: 20px 10px 0;
+    margin-bottom: 40px;
+}
+.tn-img{
+    margin-right: 20px;
+}
+.tn-info{
+    margin-left: 20px;
+}
+.tn-img-inverse{
+    margin-left: 20px;
+}
+.tn-info-inverse{
+    margin-right: 20px;
+}
+
+
+
+.footer{
+    background-color: #343a40;
+    color: #bbbbbb;
+    padding: 30px 0;
+}
+.footer-text{
+    text-align: center;
+}
