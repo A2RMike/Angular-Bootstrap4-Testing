@@ -20,4 +20,8 @@ angular.module("app")
                                 url: "/categories",
                                 templateUrl: "/app/view/templates/categories.html"
                             })
+                            .state("common.contacts",{
+                                url: "/contacts",
+                                templateUrl: "/app/view/templates/contacts.html"
+                            })
         } ]);
