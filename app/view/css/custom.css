@@ -8,6 +8,7 @@
 .logo {
     width: 120px;
     height: 100px;
+    margin-top: 55px;
 }
 .login-btn{
     margin-bottom: -100px;
@@ -41,6 +42,10 @@ body{
 #categoryContainer{
     margin-bottom: 80px;
     margin-top: 40px;
+}
+#productpic{
+    width: 30%;
+    height: 30%;
 }
 
 .map{
