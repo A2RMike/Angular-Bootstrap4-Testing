@@ -24,4 +24,8 @@ angular.module("app")
                                 url: "/contacts",
                                 templateUrl: "/app/view/templates/contacts.html"
                             })
+                            .state("common.product",{
+                                url: "/product",
+                                templateUrl: "/app/view/templates/product.html"
+                            })
         } ]);

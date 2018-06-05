@@ -6,7 +6,7 @@
     color: #ebebeb;
 }
 .logo {
-    width: 100px;
+    width: 120px;
     height: 100px;
 }
 .login-btn{
@@ -37,6 +37,10 @@ body{
 }
 .tn-info-inverse{
     margin-right: 20px;
+}
+#categoryContainer{
+    margin-bottom: 80px;
+    margin-top: 40px;
 }
 
 .map{
