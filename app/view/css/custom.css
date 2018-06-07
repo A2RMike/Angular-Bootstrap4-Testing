@@ -8,10 +8,10 @@
 .logo {
     width: 120px;
     height: 100px;
-    margin-top: 55px;
+    margin-top: 15px;
 }
 .login-btn{
-    margin-bottom: -100px;
+    margin-bottom: -70px;
     margin-right: 20px;
 }
 
@@ -40,7 +40,7 @@ body{
     margin-right: 20px;
 }
 #categoryContainer{
-    margin-bottom: 80px;
+    margin-bottom: 120px;
     margin-top: 40px;
 }
 #productpic{
