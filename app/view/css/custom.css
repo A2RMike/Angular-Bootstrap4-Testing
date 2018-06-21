@@ -5,10 +5,10 @@
 .nav > .nav-item > .nav-link:hover{
     color: #ebebeb;
 }
+
 .logo {
-    width: 120px;
+    width: 100px;
     height: 100px;
-    margin-top: 15px;
 }
 .login-btn{
     margin-bottom: -65px;
