@@ -63,7 +63,7 @@ body{
     background-color: #343a40;
     color: #bbbbbb;
     padding: 4px 0;
-    position: sticky;
+    position: static;
     width: 100%;
     bottom: 0;
 }
